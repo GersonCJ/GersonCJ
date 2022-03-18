@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GersonCJ
 - 👀 I’m interested in coding mainly with Python, but learning and exploring other languages too.
-- 🌱 I’m currently learning Software Defined Radio.
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects of SDR involving GNU Radio and Python !
 - 📫 How to reach me gersonchadijunior@gmail.com
 
